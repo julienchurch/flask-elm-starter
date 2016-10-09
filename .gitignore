@@ -1,0 +1,4 @@
+node_modules/
+app-front/elm-stuff/
+__pycache__/
+app-back/.env
